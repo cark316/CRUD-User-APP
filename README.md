@@ -1,8 +1,8 @@
 CRUD (Create, Read, Update and Delete) App using:
 
-Frontend: React app created using vite
+Frontend: React app created using Vite with TailwindCSS
 
-Backened: NodeJS with ExpressJS and MongoDB as the non-sql database
+Backened: NodeJS with ExpressJS and MongoDB as the non-SQL database
 
 Project Preview:
 
